@@ -1,3 +1,4 @@
+# encoding:utf-8
 import logging
 
 _log_file = 'logs/all.log'
