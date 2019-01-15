@@ -1,0 +1,11 @@
+{
+    "database": {
+    "url": "mysql+mysqlconnector://root:123098@127.0.0.1:3306/account"                                                                                                                ,
+    "pool_size": 20,
+    "max_overflow": 10,
+    "pool_timeout": 30,
+    "pool_recycle": 30,
+    "echo": true,
+    "echo_pool": true
+  }
+}
