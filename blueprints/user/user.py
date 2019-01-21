@@ -6,6 +6,12 @@ import hashlib
 from flask import Blueprint, session, request, render_template
 from sqlalchemy.orm.exc import NoResultFound
 
+from blueprints.user.services import login_service
+
+from utils.errors.success import succ_json
+from utils.errors.parameter_errors import BadRequest
+from utils.object_attr_ops import mask_pass
+
 
 routes = Blueprint('user', __name__, template_folder='templates')
 
@@ -14,7 +20,8 @@ def login():
     if request.method == 'POST':
         username = request.form.get('username')
         password = request.form.get('password')
-
+        user_id, user_info = login_service.login(username,password)
+        return succ_json(mask_pass(user_info))
     else:
         return render_template(
             'login/login.html'
