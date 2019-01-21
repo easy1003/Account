@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% if title %}
+    <title>{{title}}</title>
+    {% else %}
+    <title>Welcome Page</title>
+    {% endif %}
+</head>
+<body>
+    <h1>Hello, welcome!</h1>
+    <h2>Hi, {{user.nickname}}</h2>
+</body>
+</html>

@@ -3,11 +3,13 @@ import re
 import platform
 
 from flask import Flask
+from blueprints.user import user
 from utils.logger import get_logger, get_flask_log_handler
 from utils.config import get_config
 
 app = Flask(__name__)
 
+app.register_blueprint(user.routes, url_prefix='/user')
 
 
 @app.route('/')
