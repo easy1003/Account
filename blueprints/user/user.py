@@ -4,7 +4,6 @@ import random
 
 import hashlib
 from flask import Blueprint, session, request, render_template
-from sqlalchemy.orm.exc import NoResultFound
 
 from blueprints.user.services import login_service
 
