@@ -829,3 +829,88 @@ Wed Jan 30 21:55:29 2019 - SIGPIPE: writing to a closed pipe/socket/fd (probably
 Wed Jan 30 21:55:29 2019 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET /favicon.ico (127.0.0.1)
 OSError: write error
 [pid: 7503|app: 0|req: 5/5] 127.0.0.1 () {44 vars in 759 bytes} [Wed Jan 30 21:55:29 2019] GET /favicon.ico => generated 0 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 0 bytes (0 switches on core 0)
+Gracefully killing worker 2 (pid: 7503)...
+Gracefully killing worker 1 (pid: 7502)...
+gateway "uWSGI http 1" has been buried (pid: 7505)
+...gracefully killing workers...
+worker 1 buried after 2 seconds
+worker 2 buried after 2 seconds
+binary reloading uWSGI...
+chdir() to /home/yyz/PycharmProjects/AccountApp
+closing all non-uwsgi socket fds > 2 (max_fd = 1024)...
+found fd 6 mapped to socket 0 (/home/yyz/PycharmProjects/AccountApp/conf/uwsgi_conf.sock)
+running /home/yyz/PycharmProjects/AccountApp/venv/bin/uwsgi
+[uWSGI] getting INI configuration from conf/uwsgi_conf.ini
+*** Starting uWSGI 2.0.17.1 (64bit) on [Thu Jan 31 09:26:38 2019] ***
+compiled with version: 5.4.0 20160609 on 16 January 2019 03:10:46
+os: Linux-4.4.0-21-generic #37-Ubuntu SMP Mon Apr 18 18:33:37 UTC 2016
+nodename: yyz-ThinkPad-X250
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/yyz/PycharmProjects/AccountApp
+detected binary path: /home/yyz/PycharmProjects/AccountApp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/yyz/PycharmProjects/AccountApp
+your processes number limit is 14443
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on :5001 fd 3
+uwsgi socket 0 inherited UNIX address /home/yyz/PycharmProjects/AccountApp/conf/uwsgi_conf.sock fd 6
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Python main interpreter initialized at 0x18c37b0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 250128 bytes (244 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 8 seconds on interpreter 0x18c37b0 pid: 7500 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 7500)
+spawned uWSGI worker 1 (pid: 13850, cores: 2)
+spawned uWSGI worker 2 (pid: 13851, cores: 2)
+spawned uWSGI http 1 (pid: 13853)
+Gracefully killing worker 1 (pid: 13850)...
+gateway "uWSGI http 1" has been buried (pid: 13853)
+...brutally killing workers...
+worker 2 buried after 0 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /home/yyz/PycharmProjects/AccountApp
+closing all non-uwsgi socket fds > 2 (max_fd = 1024)...
+found fd 6 mapped to socket 0 (/home/yyz/PycharmProjects/AccountApp/conf/uwsgi_conf.sock)
+running /home/yyz/PycharmProjects/AccountApp/venv/bin/uwsgi
+[uWSGI] getting INI configuration from conf/uwsgi_conf.ini
+*** Starting uWSGI 2.0.17.1 (64bit) on [Thu Jan 31 09:27:16 2019] ***
+compiled with version: 5.4.0 20160609 on 16 January 2019 03:10:46
+os: Linux-4.4.0-21-generic #37-Ubuntu SMP Mon Apr 18 18:33:37 UTC 2016
+nodename: yyz-ThinkPad-X250
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/yyz/PycharmProjects/AccountApp
+detected binary path: /home/yyz/PycharmProjects/AccountApp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/yyz/PycharmProjects/AccountApp
+your processes number limit is 14443
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on :5001 fd 3
+uwsgi socket 0 inherited UNIX address /home/yyz/PycharmProjects/AccountApp/conf/uwsgi_conf.sock fd 6
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Python main interpreter initialized at 0x1bf47b0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 250128 bytes (244 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x1bf47b0 pid: 7500 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 7500)
+spawned uWSGI worker 1 (pid: 13967, cores: 2)
+spawned uWSGI worker 2 (pid: 13968, cores: 2)
+spawned uWSGI http 1 (pid: 13970)
