@@ -19,7 +19,7 @@ def login():
     if request.method == 'POST':
         username = request.form.get('username')
         password = request.form.get('password')
-        user_id, user_info = login_service.login(username,password)
+        user_id, user_info = login_service.login(username, password)
         return succ_json(mask_pass(user_info))
     else:
         return render_template(

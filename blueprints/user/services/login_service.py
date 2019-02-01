@@ -8,15 +8,15 @@ def login(username, password):
     with DbSession() as db_session:
         register_user = db_session.query(AccUser).filter(AccUser.username==username).first()
         if register_user is None:
-            return;
+            return ;
         else:
             if register_user.password!=password:
                 return None
             else:
-                useid=register_user.id;
-                session['userid']=useid
+                userid=register_user.id;
+                session['userid']=userid
                 session['username']=username
-                return  useid,register_user._as_dict()
+                return  userid,register_user._as_dict()
 
 
 

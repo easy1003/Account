@@ -10,7 +10,7 @@ from utils.config import get_config
 app = Flask(__name__)
 
 app.register_blueprint(user.routes, url_prefix='/user')
-
+app.config['SECRET_KEY']='123456'
 
 @app.route('/')
 def index():
