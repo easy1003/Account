@@ -219,3 +219,123 @@
 127.0.0.1 - - [01/Feb/2019 12:00:22] "GET /user/login HTTP/1.1" 200 -
 127.0.0.1 - - [01/Feb/2019 12:00:22] "GET /user/login?filename=login%2Fcss%2Fstyle.css HTTP/1.1" 200 -
 127.0.0.1 - - [01/Feb/2019 12:00:38] "POST /user/login HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [01/Feb/2019 22:00:37] "POST /user/login HTTP/1.1" 500 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/services/login_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [01/Feb/2019 22:04:15] "POST /user/login HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 10:17:26] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:17:26] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 10:17:48] "POST /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:17:59] "POST /user/login HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 10:17:59] "GET /user/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:17:59] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:17:59] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:17:59] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:17:59] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 10:46:10] "GET /user/upload HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:46:11] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 10:47:11] "POST /user/upload HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 10:47:11] "GET /user/upload?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:47:11] "GET /user/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:47:11] "GET /user/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:47:11] "GET /user/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:47:11] "GET /user/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 10:49:04] "POST /user/upload HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 10:49:04] "GET /user/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:49:04] "GET /user/upload?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:49:04] "GET /user/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:49:04] "GET /user/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 10:50:07] "POST /user/upload HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 10:50:07] "GET /user/upload?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:50:07] "GET /user/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:50:07] "GET /user/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:50:08] "GET /user/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 10:51:06] "POST /user/upload HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 10:51:06] "GET /user/upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:51:06] "GET /user/upload?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:51:06] "GET /user/upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:51:06] "GET /user/upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 10:52:01] "POST /user/upload HTTP/1.1" 302 -
+127.0.0.1 - - [02/Feb/2019 10:52:01] "GET /user/upload?filename=test.txt HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:52:05] "POST /user/upload?filename=test.txt HTTP/1.1" 302 -
+127.0.0.1 - - [02/Feb/2019 10:52:05] "GET /user/upload?filename=test.txt HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 10:52:40] "POST /user/upload?filename=test.txt HTTP/1.1" 302 -
+127.0.0.1 - - [02/Feb/2019 10:52:40] "GET /user/upload?filename=test.txt HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:26:31] "GET /user/success HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 11:26:31] "GET /user/success?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:26:31] "GET /user/success?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:26:31] "GET /user/success?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:26:31] "GET /user/success?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:26:31] "GET /user/success?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:26:42] "GET /user/index HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 11:27:03] "GET /user/success HTTP/1.1" 200 -
