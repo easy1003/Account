@@ -1,10 +1,12 @@
+
 {
+    "app_secret": "A3r92j/3yX R~Xd!jmN]LWX1'!.4",
     "database": {
     "url": "mysql+mysqlconnector://root:123098@127.0.0.1:3306/account"                                                                                                                ,
     "pool_size": 20,
     "max_overflow": 10,
-    "pool_timeout": 30,
-    "pool_recycle": 30,
+    "pool_timeout": 50,
+    "pool_recycle": 50,
     "echo": true,
     "echo_pool": true
   }

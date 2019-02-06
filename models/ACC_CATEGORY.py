@@ -9,7 +9,7 @@ from sqlalchemy.sql import func
 
 class AccCategory(BASE):
     __tablename__= 'ACC_CATEGORY'
-    id = Column('ID', Integer, primary_key=True)
+    id = Column('ID', Integer, primary_key=True, autoincrement='ignore_fk' )
     category = Column('CATEGORY', String(32))
     status = Column('STATUS', Integer, default=1)
 

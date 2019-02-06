@@ -339,3 +339,930 @@
  * Debugger is active!
  * Debugger PIN: 248-985-311
 127.0.0.1 - - [02/Feb/2019 11:27:03] "GET /user/success HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 11:38:30] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:38:37] "POST /user/login HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 11:56:11] "GET /user/test HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 11:56:11] "GET /user/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:56:11] "GET /user/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:56:11] "GET /user/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:56:11] "GET /user/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:56:11] "GET /user/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 11:56:35] "GET /user/test HTTP/1.1" 302 -
+127.0.0.1 - - [02/Feb/2019 11:56:35] "GET /user/success HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:56:36] "GET /favicon.ico HTTP/1.1" 404 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 11:59:10] "GET /user/test HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 11:59:10] "GET /user/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:59:10] "GET /user/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:59:10] "GET /user/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:59:10] "GET /user/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 12:00:15] "GET /user/test HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 12:00:15] "GET /user/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 12:00:15] "GET /user/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 12:00:15] "GET /user/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 12:00:15] "GET /user/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 12:00:31] "GET /user/test HTTP/1.1" 404 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 13:57:26] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:58:31] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:58:34] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:58:34] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:59:10] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:59:12] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:01:08] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:01:08] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 14:01:09] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:01:09] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 14:01:09] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:01:09] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 14:01:09] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:01:09] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 14:02:46] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:02:46] "GET /static//static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 14:03:29] "GET /user/login HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 14:03:29] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:03:29] "GET /user/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:03:29] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:03:29] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:04:19] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:04:19] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 14:11:03] "GET /user/login HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 14:11:03] "GET /user/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:11:03] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:11:03] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:11:03] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:11:47] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:11:47] "GET /user/login?filename=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:14:22] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:14:22] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 14:14:57] "GET /user/login HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 14:14:57] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:14:57] "GET /user/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:14:57] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:14:57] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:17:00] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 14:17:00] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:18:48] "GET /user/login HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 19:18:48] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:18:48] "GET /user/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:18:48] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:18:48] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:19:07] "GET /user/login HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 19:19:07] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:19:07] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:19:07] "GET /user/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:19:07] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:19:47] "GET /user/login HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 19:19:47] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:19:47] "GET /user/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:19:47] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:19:47] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:26:47] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:26:47] "GET /templates/static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:27:11] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:27:11] "GET /user/blueprints/user/templates/static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:27:11] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:27:46] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:27:46] "GET /home/yyz/PycharmProjects/AccountApp/blueprints/user/templates/static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:28:27] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:28:27] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:31:38] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:31:38] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:31:57] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:31:57] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:32:47] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:32:47] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:34:15] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:34:15] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:34:44] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:34:44] "GET /static/style.css HTTP/1.1" 404 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 19:40:21] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:40:21] "GET /static/style.css HTTP/1.1" 404 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 19:47:53] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:47:53] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:48:15] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:48:15] "GET /static/style.css HTTP/1.1" 404 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 19:49:37] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:49:37] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:49:58] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:49:58] "GET /static/style.css HTTP/1.1" 404 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 19:50:08] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:50:08] "GET /static/style.css HTTP/1.1" 404 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 19:52:07] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:52:07] "GET /static/style.css HTTP/1.1" 404 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 19:53:17] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:53:17] "GET /static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:56:09] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:56:09] "GET /user/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 19:56:33] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:56:33] "GET /user/static/style.css HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 19:59:12] "POST /user/login HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 19:59:12] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:59:12] "GET /user/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:59:12] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:59:12] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 19:59:12] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 20:00:45] "POST /user/login HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 20:00:45] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 20:00:45] "GET /user/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 20:00:45] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 20:00:45] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 20:01:41] "POST /user/login HTTP/1.1" 500 -
+127.0.0.1 - - [02/Feb/2019 20:01:41] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 20:01:41] "GET /user/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 20:01:41] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 20:01:41] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 20:02:04] "POST /user/login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Feb/2019 20:02:04] "GET /event/add_event HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 20:05:34] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 20:05:34] "GET /user/static/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 20:05:35] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 20:05:35] "GET /user/static/style.css HTTP/1.1" 404 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/user.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [02/Feb/2019 20:05:51] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 20:05:51] "GET /user/static/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 20:06:20] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 20:06:20] "GET /user/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Feb/2019 20:09:26] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 20:09:26] "GET /user/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Feb/2019 20:09:41] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 20:09:41] "GET /user/static/style.css HTTP/1.1" 304 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 11:46:40] "POST /user/login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 11:46:40] "GET /event/index HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 11:46:41] "GET /favicon.ico HTTP/1.1" 404 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 11:47:33] "POST /user/login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 11:47:33] "GET /event/index HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 11:47:33] "GET /event/add_event HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 11:48:06] "POST /user/login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 11:48:06] "GET /event/index HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 11:48:06] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 11:48:06] "GET /event/static/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:14:22] "GET /user/logout HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 12:14:23] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:14:43] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:14:43] "GET /event/static/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:14:44] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:14:44] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 12:15:48] "GET /user/add_event HTTP/1.1" 404 -
+127.0.0.1 - - [03/Feb/2019 12:15:56] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:17:45] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:17:45] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 12:18:11] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:18:11] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 12:18:40] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:18:40] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 12:25:17] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:25:17] "GET /event/static/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:25:17] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [03/Feb/2019 12:25:38] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:25:38] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 12:26:31] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:26:31] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 12:29:20] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:29:20] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 12:30:18] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:30:18] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 12:30:18] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:30:18] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 12:30:19] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:30:19] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 12:30:46] "GET /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 12:30:46] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:30:46] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:30:46] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:30:47] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:30:47] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:31:05] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:31:05] "GET /user/static/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:31:05] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [03/Feb/2019 12:31:14] "POST /user/login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 12:31:14] "GET /event/index HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 12:31:14] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:31:14] "GET /event/static/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:32:21] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:32:21] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 12:33:18] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 12:33:18] "GET /event/static/style.css HTTP/1.1" 304 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 16:27:27] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 16:27:27] "GET /event/static/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 16:27:27] "GET /favicon.ico HTTP/1.1" 404 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/user/services/login_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 16:29:04] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 16:29:10] "POST /user/login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 16:29:10] "GET /event/index HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 16:29:10] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 16:29:14] "GET /user/logout HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 16:29:14] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 16:29:24] "POST /user/login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 16:29:24] "GET /event/index HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 16:29:24] "GET /event/add_event HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 16:40:31] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 16:40:31] "GET /event/static/style.css HTTP/1.1" 304 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 16:42:10] "GET /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 16:42:10] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 16:42:10] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 16:42:10] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 16:42:10] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 16:44:07] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 16:44:07] "GET /event/static/style.css HTTP/1.1" 304 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 16:44:25] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 16:44:25] "GET /event/static/style.css HTTP/1.1" 304 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 16:44:43] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 16:44:43] "GET /event/static/style.css HTTP/1.1" 304 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 16:45:56] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 16:45:56] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 19:35:04] "GET /event/add_event?label=1&category=3&money=1&content=&number=&extra_text=&datatime= HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 19:35:05] "GET /event/add_event?label=1&category=1&money=1&content=&number=&extra_text=&datatime= HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 19:35:39] "GET /event/add_event?label=2&category=1&money=1&content=&number=&extra_text=&datatime= HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 19:35:43] "GET /event/add_event?label=1&category=2&money=1&content=&number=&extra_text=&datatime= HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 19:56:51] "GET /event/index HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 19:56:51] "GET /event/add_event HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 19:57:31] "GET /event/index HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 19:57:31] "GET /event/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 19:57:31] "GET /event/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 19:57:31] "GET /event/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 19:57:32] "GET /event/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 19:57:32] "GET /event/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 19:57:45] "GET /event/index HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 19:57:45] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 20:00:37] "GET /event/index HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 20:00:37] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 20:01:03] "GET /event/index HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 20:01:03] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 20:03:18] "GET /event/index HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 20:03:18] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 20:03:20] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 20:03:30] "GET /event/index HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 20:03:30] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 20:03:32] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 20:03:35] "GET /event/query_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 20:03:35] "GET /event/query_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 20:03:35] "GET /event/query_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 20:03:35] "GET /event/query_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 20:03:35] "GET /event/query_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 20:03:35] "GET /event/query_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 20:08:42] "GET /event/add_event HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 20:09:54] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 20:09:54] "GET /event/static/style.css HTTP/1.1" 304 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 20:22:49] "GET /event/index HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 20:23:06] "POST /user/login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Feb/2019 20:23:06] "GET /event/index HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:20:20] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:20:20] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 21:21:10] "GET /event/add_event?label=1&category=1&money=1&content=1%E6%9C%88%E4%BB%BD%E5%B7%A5%E8%B5%84&number=1500&extra_text=&datatime=2019-01-18 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:23:07] "GET /event/add_event?label=1&category=1&money=1&content=1&number=1500&extra_text=&datatime=2019-01-18 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:24:28] "GET /event/add_event?label=1&category=1&money=1&content=1&number=1500&extra_text=&datatime=2019-01-18 HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:25:15] "GET /event/add_event?label=1&category=1&money=1&content=&number=1500&extra_text=&datatime=2019-02-01 HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:25:37] "GET /event/add_event?label=1&category=1&money=1&content=&number=1500&extra_text=&datatime=2019-02-01 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:25:37] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 21:26:08] "GET /event/add_event?label=1&category=1&money=1&content=&number=1500&extra_text=&datatime=2019-02-01 HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:27:22] "GET /event/add_event?label=1&category=1&money=1&content=&number=1500&extra_text=&datatime=2019-02-01 HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:28:46] "GET /event/add_event?label=1&category=1&money=1&content=&number=1500&extra_text=&datatime=2019-02-01 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:30:06] "GET /event/add_event?label=1&category=1&money=1&content=&number=1500&extra_text=&datatime=2019-02-01 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:30:06] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 21:30:15] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:30:15] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:30:15] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:30:15] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:30:15] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:32:19] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:32:19] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:32:19] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:32:19] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:32:19] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:33:38] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:33:38] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:33:38] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:33:38] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:33:38] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:34:08] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:34:08] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:34:08] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:34:08] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:34:08] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:34:37] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:34:37] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:34:37] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:34:38] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:34:38] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:35:35] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:35:35] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:35:35] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:35:35] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:35:36] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:37:11] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:37:11] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:37:11] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:37:11] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:37:11] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:39:40] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:39:40] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:39:40] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:39:40] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:39:40] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:40:31] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:40:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:40:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:40:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:40:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:42:30] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:42:30] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:42:30] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:42:30] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:42:30] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/models/ACC_ACCOUNT.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:55:16] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:55:16] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:55:16] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:55:16] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:55:16] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:55:21] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:55:21] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:55:21] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:55:21] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:55:21] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:56:54] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:56:54] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:56:54] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:56:54] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:56:54] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:57:18] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:57:18] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:57:18] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:57:18] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:57:18] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:58:09] "GET /event/index HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:58:12] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:58:21] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:58:21] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:58:21] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:58:21] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:58:21] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:58:35] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:58:35] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:58:35] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:58:35] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:58:36] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 21:59:16] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:59:16] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 21:59:16] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:59:16] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 21:59:18] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 21:59:18] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:59:18] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:59:18] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 21:59:18] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:02:14] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:02:14] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:02:14] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:02:14] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:02:14] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:06:04] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:06:04] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:06:04] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:06:04] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:06:04] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/models/ACC_ACCOUNT.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:06:31] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:06:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:06:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:06:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:06:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:09:38] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:09:38] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:09:38] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:09:38] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:09:38] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:10:15] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:10:15] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:10:15] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:10:15] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:10:15] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/models/ACC_ACCOUNT.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:20:23] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:20:24] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Feb/2019 22:20:31] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:20:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:20:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:20:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:20:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:23:47] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:23:47] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:23:47] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:23:47] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:23:47] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:24:44] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:24:44] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:24:44] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:24:44] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:24:44] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:25:07] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:25:07] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:25:07] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:25:07] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:25:08] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:41:53] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:41:53] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:41:53] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:41:53] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:41:53] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:42:24] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:42:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:42:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:42:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:42:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:44:32] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:44:32] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:44:32] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:44:32] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:44:32] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:45:18] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:45:18] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:45:18] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:45:18] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:45:18] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:49:24] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:49:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:49:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:49:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:49:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:51:53] "GET /event/index HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:51:55] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:52:01] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:52:01] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:52:01] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:52:01] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:52:01] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:52:36] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:52:36] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:52:36] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:52:36] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:52:36] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [03/Feb/2019 22:56:24] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [03/Feb/2019 22:56:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:56:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:56:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Feb/2019 22:56:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/models/ACC_ACCOUNT.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [05/Feb/2019 10:21:57] "GET /event/index HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 10:21:58] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Feb/2019 10:22:00] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 10:22:15] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [05/Feb/2019 10:22:16] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 10:22:16] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 10:22:16] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 10:22:17] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 11:08:26] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 11:08:30] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [05/Feb/2019 11:08:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 11:08:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 11:08:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 11:08:31] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 11:08:41] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 11:08:41] "GET /event/static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Feb/2019 11:08:42] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 11:08:42] "GET /event/static/style.css HTTP/1.1" 304 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [05/Feb/2019 11:08:56] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [05/Feb/2019 11:08:56] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 11:08:56] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 11:08:56] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [05/Feb/2019 11:08:56] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [06/Feb/2019 19:47:04] "GET /user/login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 19:47:04] "GET /user/static/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 19:47:04] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [06/Feb/2019 19:47:12] "POST /user/login HTTP/1.1" 302 -
+127.0.0.1 - - [06/Feb/2019 19:47:12] "GET /event/index HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 19:47:12] "GET /event/static/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 19:47:14] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 19:47:14] "GET /event/static/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 19:47:23] "POST /event/add_event HTTP/1.1" 500 -
+127.0.0.1 - - [06/Feb/2019 19:47:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 19:47:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 19:47:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 19:47:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 19:47:24] "GET /event/add_event?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/services/event_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311
+127.0.0.1 - - [06/Feb/2019 19:57:12] "POST /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 20:06:08] "GET /event/index HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 20:06:08] "GET /event/static/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 20:06:08] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [06/Feb/2019 20:06:11] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 20:06:32] "POST /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 20:07:42] "GET /event/index HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 20:07:44] "GET /event/add_event HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2019 20:08:09] "POST /event/add_event HTTP/1.1" 200 -
+ * Detected change in '/home/yyz/PycharmProjects/AccountApp/blueprints/event/event.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 248-985-311

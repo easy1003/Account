@@ -1,0 +1,31 @@
+{% extends "event_templates.html" %}
+<title>Add_event</title>
+{% block body %}
+
+  {% if error %}<p class=error><strong>Error:</strong> {{ error }}{% endif %}
+  <form action="{{ url_for('event.add_event') }}" method='post' id="add_event">
+    <dl>
+
+        <select name="label" form="add_event">
+            <option value="1">收入</option>
+            <option value="2">支出</option>
+        </select>
+        <select name="category" form="add_event">
+            {% for category in categorys %}
+                <option value={{category.id}}>{{category.category}}</option>
+            {% endfor %}
+        </select>
+        <select name="money" form="add_event">
+            <option value="1">人民币</option>
+            <option value="2">美元</option>
+        </select>
+        <br>
+        明细: <input type="text" name="content"><br>
+        金额: <input type="text" name="num"><br>
+        备注: <input type="text" name="extra_text"><br>
+        时间: <input type="date" name="datetime"><br>
+
+      <dd><input type=submit value="提交">
+    </dl>
+  </form>
+{% endblock %}

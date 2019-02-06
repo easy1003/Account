@@ -4,13 +4,15 @@ import platform
 
 from flask import Flask
 from blueprints.user import user
+from blueprints.event import event
 from utils.logger import get_logger, get_flask_log_handler
 from utils.config import get_config
 
 app = Flask(__name__)
 
 app.register_blueprint(user.routes, url_prefix='/user')
-app.config['SECRET_KEY']='123456'
+app.register_blueprint(event.routes, url_prefix='/event')
+app.secret_key = get_config()['app_secret']
 
 @app.route('/')
 def index():

@@ -10,7 +10,7 @@ from sqlalchemy.sql import func
 
 class AccUser (BASE):
     __tablename__ = "ACC_USER"
-    id = Column('ID', Integer, primary_key=True)
+    id = Column('ID', Integer, primary_key=True, autoincrement='ignore_fk' )
     username = Column('USERNAME', String(32))
     password = Column('PASSWORD', String(32))
     realname = Column('REALNAME', String(32))

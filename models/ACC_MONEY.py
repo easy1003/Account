@@ -10,7 +10,7 @@ from sqlalchemy.sql import func
 
 class AccMoney(BASE):
     __tablename__ = 'ACC_MONEY'
-    id = Column('ID', Integer, primary_key=True)
+    id = Column('ID', Integer, primary_key=True, autoincrement='ignore_fk' )
     money = Column('MONEY', String(32))
     status = Column('STATUS', Integer, default=1)
 

@@ -52,7 +52,7 @@ STATUS
 CREATE TABLE IF NOT EXISTS `ACC_CATEGORY`(
     `ID` INT UNSIGNED AUTO_INCREMENT            COMMENT '类别ID',
     `CATEGORY` VARCHAR(32) NOT NULL             COMMENT '类别名称',
-    `STATUS` tinyint(4)  DEFAULT '1'            COMMENT '状态',
+    `STATUS` tinyint(4)                         COMMENT '状态',
     PRIMARY KEY (`ID`)
 )ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='消费类别表';
 
@@ -68,7 +68,7 @@ CREATE TABLE IF NOT EXISTS `ACC_ACCOUNT` (
     `ID` INT UNSIGNED AUTO_INCREMENT            COMMENT '支出表ID',
     `LABEL` TINYINT(4) NOT NULL                 COMMENT '收入或支出',
     `CATEGORY` INT UNSIGNED NOT NULL            COMMENT '种类',
-    `CONTENT` VARCHAR(100)                      COMMENT '支出明细',
+    `CONTENT` VARCHAR(100)                      COMMENT '明细',
     `NUM` INT UNSIGNED DEFAULT '0'              COMMENT '金额',
     `MONEY` INT UNSIGNED DEFAULT '1'            COMMENT '币种',
     `EXTRA_TEXT` VARCHAR(200)                   COMMENT '备注',
@@ -83,6 +83,7 @@ CREATE TABLE IF NOT EXISTS `ACC_USER_ACCOUNT` (
     `ID` INT UNSIGNED AUTO_INCREMENT            COMMENT '用户记账表ID',
     `UID` INT UNSIGNED  NOT NULL                COMMENT '用户ID',
     `ACC_ID` INT UNSIGNED NOT NULL              COMMENT '消费表ID',
+    `STATUS` tinyint(4)  DEFAULT '1'            COMMENT '状态',
     PRIMARY KEY (`ID`),
     INDEX `UID` (`UID`),
     INDEX `ACC_ID` (`ACC_ID`),
@@ -96,10 +97,12 @@ CREATE TABLE IF NOT EXISTS `ACC_USER_ACCOUNT` (
 
 INSERT INTO ACC_CATEGORY(
 ID,
-CATEGORY
-)VALUES('1','工资收入'),('2','饮食'),('3','服饰美容'),('4','生活日用'),('5','住房缴费'),('6','交通出行'),
-('7','通讯物流'),('8','文教娱乐'),('9','运动健康'),('10','理财'),('11','保险'),('12','人情往来'),
-('13','奖金收入'),('14','其他收入'),('15','其他支出');
+CATEGORY,
+STATUS
+)VALUES('1','工资收入','1'),('2','饮食','2'),('3','服饰美容','2'),('4','生活日用','2'),
+('5','住房缴费','2'),('6','交通出行','2'),('7','通讯物流','2'),('8','文教娱乐','2'),
+('9','运动健康','2'),('10','理财','2'),('11','保险','2'),('12','人情往来','2'),
+('13','奖金收入','1'),('14','其他收入','1'),('15','其他支出','2');
 
 INSERT INTO ACC_MONEY(
 ID,

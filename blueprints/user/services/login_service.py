@@ -16,6 +16,7 @@ def login(username, password):
                 userid=register_user.id;
                 session['userid']=userid
                 session['username']=username
+                session['logged_in']=True
                 return  userid,register_user._as_dict()
 
 
