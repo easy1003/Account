@@ -20,7 +20,7 @@ class AccAccount(BASE):
     money = Column('MONEY', Integer, ForeignKey(AccMoney.id))
     extra_text = Column('EXTRA_TEXT', String(200))
     datetime = Column('DATETIME',Date,default=datetime.date(2019, 1, 1) )
-
+    status = Column('STATUS', Integer, default=1)
     def __init__(self, **kwargs):
         self.label = kwargs.get('label')
         self.category = kwargs.get('category')

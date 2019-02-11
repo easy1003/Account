@@ -49,11 +49,33 @@ def query_event():
         pass
 
 
-@routes.route('/query_index',methods=['GET'])
+@routes.route('/query_index',methods=['GET','POST'])
 @require_login
 def query_index():
-    if request.method == 'GET':
-        pass
+    categorys = event_service.get_catrgory()
+    if request.method == 'POST':
+        label = request.form.get('label')
+        category = request.form.get('category')
+        page = request.form.get('page')
+        from_date = request.form.get('from_date')
+        to_date = request.form.get('to_date')
+        if not page:
+            page = 0
+        uid = session.get('userid')
+        res = event_service.query_account(uid=uid,label=label,category=category
+                                          ,from_date=from_date,to_date=to_date,page=page)
+
+        # if category is not None:
+        #     res = event_service.query_by_category(uid=uid, category=category, page=page)
+        #     accounts=res['data']
+        #     return render_template(
+        #         'query_event.html',accounts=accounts,categorys=categorys
+        #     )
+        return succ_json(res)
     else :
-        pass
+        return render_template(
+            'query_index.html', categorys=categorys
+        )
+
+
 

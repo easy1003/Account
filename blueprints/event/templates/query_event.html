@@ -1,0 +1,38 @@
+{% extends "event_templates.html" %}
+<title>Add_event</title>
+{% block body %}
+
+  {% if error %}<p class=error><strong>Error:</strong> {{ error }}{% endif %}
+  <form action="{{ url_for('event.query_index') }}" method='post' id="query_index">
+    <dl>
+        <h2>消费查询</h2>
+        <select name="label" form="query_index">
+            <option value="1">收入</option>
+            <option value="2">支出</option>
+            <option value="3">全部</option>
+        </select>
+        <select name="category" form="query_index">
+            <option value=0>全部</option>
+            {% for category in categorys %}
+                <option value={{category.id}}>{{category.category}}</option>
+            {% endfor %}
+        </select>
+
+        From: <input type="date" name="from_date"> To: <input type="date" name="to_date"> <br>
+
+      <dd><input type=submit value="查询">
+      <dd>
+        {% for account in accounts%}
+            <div>
+                {% if account.id == 1 %}
+                    <p> 收入  </p>
+                {% else%}
+                    <p>支出</p>
+                {% endif %}
+                <p>{{account.category}}, {{account.content}}, {{account.num}}, {{account.datetime}}</p>
+            </div>
+        {% endfor %}
+
+    </dl>
+  </form>
+{% endblock %}
